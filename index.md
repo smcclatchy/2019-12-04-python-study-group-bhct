@@ -4,10 +4,10 @@ venue: "The Jackson Laboratory"
 address: "online"  
 country: "us"   
 language: "en"
-latitude: "44.365290"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-68.197135"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "FIXME"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "11:00 am - 12:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+latitude: "44.365290" 
+longitude: "-68.197135"   
+humandate: "Dec 4, 6, 11, 13, 18, & 20, 2019" 
+humantime: "11:00 am - 12:00 pm"  
 startdate: 2019-12-04     
 enddate: 2019-12-20   
 instructor: ["Participants take turns presenting exercises and solutions"]
