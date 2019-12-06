@@ -12,7 +12,7 @@ startdate: 2019-12-04
 enddate: 2019-12-20   
 instructor: ["Participants take turns presenting exercises and solutions"]
 email: ["susan.mcclatchy@jax.org"] 
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://docs.google.com/document/d/1liJk_ZfTLuTrredbApQSEhzuoUy9XG4flL1G7W0TJ34/edit?usp=sharing
 eventbrite: 82637544119
 ---
 
